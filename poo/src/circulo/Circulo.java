@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Circulo 
 {
+	//Comentario añadido para git
 	//Atributos o miembros dato
 	private double radio;
 	
