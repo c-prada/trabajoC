@@ -24,7 +24,7 @@ public class Circulo
 		radio = copia.radio;
 	}
 	
-	//metodos u operaciones que podemos hacer obteniendo el radio
+	//metodos u operaciones que podemos hacer obteniendo el radio uwu
 	public double getRadio() {
 		return radio;
 	}
